@@ -1,1 +1,2 @@
-[TASK-1-OASISINFOBYTE](https://github.com/Sony-Dodla/TASK-1-OASISINFOBYTE/blob/main/TASK-1.ipynb)<br>
+[TASK-1](https://github.com/Sony-Dodla/Oasisinfobyte-Tasks/blob/main/TASK-1.ipynb)<br>
+
